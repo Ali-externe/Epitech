@@ -29,7 +29,6 @@ clean:
 
 fclean:	clean
 	rm $(NAME)
-	rm *.o
 
 re:	fclean all
 
