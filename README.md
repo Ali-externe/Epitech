@@ -23,19 +23,19 @@ Hello and welcome to my Epitech projects personnal repository. Here you can find
 | [my_rpg] |       C     | RPG adventure game |
 
 
-[42sh]: https://github.com/gauthiercler/epitech/tree/master/tek1/PSU/PSU_2015_42sh
-[BSQ]: https://github.com/gauthiercler/epitech/tree/master/tek1/CPE/CPE_2015_BSQ
-[Dante]: https://github.com/gauthiercler/epitech/tree/master/tek1/IA/dante
-[Getnextline]: https://github.com/gauthiercler/epitech/tree/master/tek1/CPE/CPE_2015_getnextline
-[Lemin]: https://github.com/gauthiercler/epitech/tree/master/tek1/CPE/CPE_2015_Lemin
-[Ls]: https://github.com/gauthiercler/epitech/tree/master/tek1/PSU/PSU_2015_my_ls
-[Minishell]: https://github.com/gauthiercler/epitech/tree/master/tek1/PSU/PSU_2015_minishell1
-[Minishell2]: https://github.com/gauthiercler/epitech/tree/master/tek1/PSU/PSU_2015_minishell2
-[navy]: https://github.com/gauthiercler/epitech/tree/master/tek1/PSU/PSU_2015_minitalk
-[Need4Steak]:  https://github.com/gauthiercler/epitech/tree/master/tek1/CPE/CPE_2015_n4s
-[Printf]: https://github.com/gauthiercler/epitech/tree/master/tek1/PSU/PSU_2015_my_printf
-[Pushswap]: https://github.com/gauthiercler/epitech/tree/master/tek1/CPE/CPE_2015_Pushswap
-[my_rpg]: https://github.com/gauthiercler/epitech/tree/master/tek1/Graphical/gfx_scroller
+[42sh]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[BSQ]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[Dante]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/dante
+[Getnextline]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[Lemin]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[Ls]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[Minishell]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[Minishell2]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[navy]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[Need4Steak]:  https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[Printf]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[Pushswap]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[my_rpg]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
 
 
 ## Second Year
@@ -49,12 +49,12 @@ Hello and welcome to my Epitech projects personnal repository. Here you can find
 | [Malloc]     |    C        | recode of malloc function |
 | [NM/OBJDump]    |     C       | recode of NM and OBJdump programs |
 
-[ASM LibC]: https://github.com/gauthiercler/epitech/tree/master/tek2/ASM/asm_minilibc
-[Arcade]: https://github.com/gauthiercler/epitech/tree/master/tek2/C%2B%2B/cpp_arcade
-[Indie Studio]: https://github.com/gauthiercler/epitech/tree/master/tek2/C%2B%2B/cpp_indie_studio
-[Malloc]: https://github.com/gauthiercler/epitech/tree/master/tek2/PSU/PSU_2016_malloc
-[FTP]: https://github.com/gauthiercler/epitech/tree/master/tek2/PSU/PSU_2016_myftp
-[NM/OBJDump]: https://github.com/gauthiercler/epitech/tree/master/tek2/PSU/PSU_2016_nmobjdump
+[ASM LibC]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[Arcade]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[Indie Studio]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[Malloc]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[FTP]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[NM/OBJDump]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
 
 ## Third Year
 
@@ -65,8 +65,8 @@ Hello and welcome to my Epitech projects personnal repository. Here you can find
 | [Gomoku]          |       C++     | AI for the Gomoku game |
 | [RType]        |     C++       | Recode of multiplayer famous rtype game |
 
-[Gomoku]: https://github.com/gauthiercler/epitech/tree/master/tek3/AI/gomoku
-[Area]: https://github.com/gauthiercler/epitech/tree/master/tek3/Java/Java_area_2017
-[RType]: https://github.com/gauthiercler/epitech/tree/master/tek3/C%2B%2B/cpp_rtype
-[Epicture]: https://github.com/gauthiercler/epitech/tree/master/tek3/Java/Java_epicture_2017
+[Gomoku]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[Area]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[RType]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
+[Epicture]: https://github.com/Ali-externe/Epitech/tree/main/First%20Year/CPE_BSQ_2017
 
