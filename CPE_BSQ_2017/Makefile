@@ -26,8 +26,7 @@ clean:
 
 fclean:	clean
 	rm bsq
-	rm *.o
-
+	
 re:	clean all
 
 .PHONY: all compile clean fclean re
