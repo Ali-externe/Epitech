@@ -1,10 +1,8 @@
 
-<h2 align="center">Epitech projects repository</h2>
+<h2 align="center">Epitech first year projects repository</h2>
 
 Hello and welcome to my Epitech First Year projects personnal repository. Here you can find some project I realized during my first years of studing at Epitech.
 
-
-## First Year
 
 | Project | Language | Description |
 |---------|----------|-------------|
